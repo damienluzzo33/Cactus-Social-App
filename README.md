@@ -2,7 +2,7 @@
 
 Version 2.0.1
 
-[Link To Deployed Application](https://cactus-social.herokuapp.com/)
+[Link To Deployed Application](https://cactus-social-app.herokuapp.com/)
 
 Original Deployment Date : December 8, 2021
 
